@@ -21,8 +21,8 @@ public class ModestWear
     {
 
         this.name = name;
-        this.price = 0;
-        this.stock = 0;
+        this.price = price;
+        this.stock = stock;
         this.material = material;
         this.design = design;
         this.style = style;
@@ -125,4 +125,5 @@ public class ModestWear
         return " product name" + this.name +"\nprice" + this.price + "\nstock" + this.stock;
 
     }
+
 }
