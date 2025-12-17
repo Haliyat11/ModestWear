@@ -7,12 +7,32 @@ Overview
 * It is designed using reusable, organized code with classes and inheritance to make the system strong and easy to maintain.
 
 # Features
-Product Management: Track stock for products like Abayas and Hijabs.
-Customer Management: Maintain customer details and their purchase history.
-Purchase Processing: Customers can buy products, and stock is updated automatically.
-Staff Access: Password-protected staff menu to manage inventory.
-Object-Oriented Design: Uses classes, inheritance, and modularity for efficient code structure.
-Two ArrayLists: Maintains separate lists for products and customers.
-Technologies Used
-Java (core concepts: classes, inheritance, ArrayLists, OOP principles)
-Console-based application
+* Customer Features
+* View all Abayas or Hijabs in stock.
+* Select products by number to purchase.
+* Specify quantity to buy; stock is updated automatically.
+* Receive a receipt showing purchased items and total cost.
+
+# Staff Features
+* Password-protected access.
+* Add new products (Abaya or Hijab) with all details (material, style, color, sleeve/length, design, price, stock).
+* Update stock levels for existing products.
+* View a list of customers and their last purchases.
+ 
+#Product Options
+ 
+Abaya Types
+* Ruffled Arm Abaya
+* Linen Abaya
+* Plain Abaya
+
+* Hijab Types
+* Jersey Hijab
+* Chiffon Hijab
+
+ # Notes
+* Staff password is set to "123" (can be changed in Drivercls).
+* Stock updates automatically after purchases.
+* The project demonstrates object-oriented programming concepts: inheritance and modularity.
+
+Khimar
