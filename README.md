@@ -36,4 +36,5 @@ Hijab Types
 * Stock updates automatically after purchases.
 * The project demonstrates object-oriented programming concepts: inheritance and modularity.
 
-
+# Author
+Haliyat Yusuff
